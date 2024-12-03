@@ -10,3 +10,4 @@
 9- DIAMOND pattern
 10-NUMBER PYRAMID pattern
 11- PALINDROMIC Pattern with Numbers pattern
+11- PALINDROMIC Pattern with Numbers pattern
