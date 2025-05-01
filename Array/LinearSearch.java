@@ -1,3 +1,6 @@
+
+import java.util.Scanner;
+
 public class LinearSearch{
     public static  boolean  search(int arr[], int element){
         for (int i=0;i<arr.length;i++) {
@@ -10,7 +13,9 @@ public class LinearSearch{
     }
     public static void main(String[] args) {
     int arr[]={1,2,3,4,5};
-    int element=8;
+    Scanner sc=new Scanner(System.in);
+    int element=sc.nextInt();
+    //int element=8;
     System.out.println(search(arr,element));;        
     }
 }
